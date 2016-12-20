@@ -1,0 +1,7 @@
+platform :ios, ‘8.0’
+use_frameworks!
+inhibit_all_warnings!
+
+target 'RAC' do
+pod 'ReactiveCocoa', '~> 2.5'
+end
