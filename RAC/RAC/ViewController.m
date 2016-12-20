@@ -62,6 +62,7 @@
 //    [self racWithRACCommand_executionSignals];
     [self racWithRACCommand_executionSignals];
     
+    NSLog(@"测试更新");
 }
 
 #pragma mark
